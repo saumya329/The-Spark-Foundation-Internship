@@ -23,3 +23,4 @@ Tools: pandas, matplotlib, seaborn, numpy
 ## Task 5: Prediction Using Desicion Tree
 Desicion Tree Classifier:It is a supervised learning algorithm which is used for both classification and regression problems in the form of trees that can be incrementally updated by splitting the dataset into smaller datasets. The result is stored in the leaf node.  Decision tree is a tree shaped  flowchart-like structure (reversed tree) with nodes (leaf), branches and  decision making conditions
 In this task we need to predict the class of flowers based on iris dataset
+Tools: pandas, sklearn, matplotlib, numpy, seaborn
